@@ -6,7 +6,7 @@ This repository contains all analysis scripts and data-processing pipelines used
 *Mitochondria structurally remodel near synapses to fuel the sustained energy demands of plasticity.*  
 bioRxiv. [https://www.biorxiv.org/content/10.1101/2025.08.27.672715v1](https://www.biorxiv.org/content/10.1101/2025.08.27.672715v1)
 
-Please cite this paper when using any part of this code.
+Please cite this paper when using any of these analysis scripts or data-processing pipelines.
 
 ---
 
