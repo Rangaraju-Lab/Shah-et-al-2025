@@ -24,7 +24,7 @@ This will save all **output segmentations** and **measurement files** in the sam
 ## Workflow Overview
 
 At its core, the workflow utilizes the following from *scikit-image*:
-- **Otsu thresholding** for adaptive binarization of local image regions.
+- **`threshold_otsu`** for adaptive binarization of local image regions.
 - **`blob_log` (Laplacian of Gaussian)** for puncta detection within the local neighborhood of the dendritic trace.
 
 These algorithms are applied specifically within the region surrounding the dendritic path, allowing selective segmentation and quantification of structures.
