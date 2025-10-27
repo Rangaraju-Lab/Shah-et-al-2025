@@ -31,8 +31,3 @@ Analysis pipelines for confocal and electron tomography (EM) data.
 Scripts to reproduce all quantitative analyses and statistical figures presented in **Shah et al., 2025**.  
 Each subfolder corresponds to individual figures and supplements.
 
----
-
-## License
-
-This repository is released under the MIT License. See the `LICENSE` file for details.
